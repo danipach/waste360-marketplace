@@ -1,0 +1,43 @@
+body {
+	background: #f3f3f3;
+}
+
+section {
+	padding-top: 200px;
+}
+
+#features .fa-arrow-circle-down {
+	font-size: 2em;
+	color: blue;
+
+}
+
+#features .fa {
+ 	display: none;
+ 	min-height: 30px;
+}
+
+header {
+	z-index: 99;
+	background: white;
+	border-bottom: 1px solid #999999;
+	margin-bottom: 20px;
+	position: fixed;
+	min-width: 100%;
+}
+
+.main-menu ul li  {
+	display: inline-block;
+	background: gray;
+	padding: 5px;
+	margin: 20px 0;
+}
+
+#left-rail {
+	position: fixed;
+}
+
+#logo {
+	width: 150px;
+	height: auto;
+}
