@@ -21,9 +21,6 @@ header {
 	z-index: 99;
 	background: white;
 	border-bottom: 1px solid #999999;
-	margin-bottom: 20px;
-	position: fixed;
-	min-width: 100%;
 }
 
 .main-menu ul li  {
@@ -33,11 +30,19 @@ header {
 	margin: 20px 0;
 }
 
-#left-rail {
-	position: fixed;
-}
-
 #logo {
 	width: 150px;
 	height: auto;
+}
+
+.leaderboard-ad {
+	width: 728px;
+	height: 90px;
+	background: #999999;
+	margin: 20px auto;
+}
+
+.leaderboard-ad p {
+	text-align:center;
+	padding-top: 30px;
 }
