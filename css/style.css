@@ -1,3 +1,4 @@
+
 body {
 	background: #f3f3f3;
 }
@@ -17,10 +18,21 @@ section {
  	min-height: 30px;
 }
 
-header {
-	z-index: 99;
-	background: white;
+.header-wrapper {
+	background: gray;
 	border-bottom: 1px solid #999999;
+	min-height: 20px;
+}
+
+.hamburger-menu {
+	padding: 10px;
+}
+
+.hamburger-icon {
+	height: 5px; 
+	width: 30px;
+	background: black;
+	margin: 5px 0 5px 10px;
 }
 
 .main-menu ul li  {
@@ -31,8 +43,7 @@ header {
 }
 
 #logo {
-	width: 150px;
-	height: auto;
+	text-align: center;
 }
 
 .leaderboard-ad {
