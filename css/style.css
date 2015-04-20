@@ -47,13 +47,31 @@ section {
 }
 
 .leaderboard-ad {
-	width: 728px;
-	height: 90px;
+	max-width: 100%;
 	background: #999999;
 	margin: 20px auto;
+		width: 728px;
+	height: 90px;
 }
 
 .leaderboard-ad p {
 	text-align:center;
 	padding-top: 30px;
+}
+
+#categories p {
+	width: 200px;
+	height: 100px;
+	background: #cccccc;
+}
+
+@media screen and (max-width: 560px) {
+    #categories p {
+    	width: 100%;
+    	}
+
+	.leaderboard-ad {
+		width: 320px;
+		height: 50px;
+	}
 }
