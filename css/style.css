@@ -120,7 +120,14 @@ body {
 	padding: 55px 50px 44px;
 }
 
+.sub-category-list ul li {
 
+	list-style: none;
+}
+.sub-category-ruler {
+	height: 2px;
+
+}
 
 @media screen and (max-width: 560px) {
     #categories p {
