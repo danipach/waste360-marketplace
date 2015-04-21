@@ -107,6 +107,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/links.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/links.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/profile-premium.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -118,7 +127,7 @@
 		},
 	"\/template\/300x250ad.kit": {
 		"fileType": 2048,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/300x250ad.kit",
 		"outputAbbreviatedPath": "\/300x250ad.html",
@@ -136,7 +145,7 @@
 		},
 	"\/template\/css.kit": {
 		"fileType": 2048,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/css.kit",
 		"outputAbbreviatedPath": "\/css.html",
@@ -145,7 +154,7 @@
 		},
 	"\/template\/footer.kit": {
 		"fileType": 2048,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/footer.kit",
 		"outputAbbreviatedPath": "\/footer.html",
