@@ -7,21 +7,31 @@ section {
 	padding-top: 200px;
 }
 
-#features .fa-arrow-circle-down {
-	font-size: 2em;
-	color: blue;
+/*------- LEADERBOARD AD -------*/
 
+.leaderboard-ad {
+	max-width: 100%;
+	background: #eaeaea;
+	margin: 20px auto;
+	width: 728px;
+	height: 90px;
+	border: 1px solid #ccc;
 }
 
-#features .fa {
- 	display: none;
- 	min-height: 30px;
+.leaderboard-ad p {
+	text-align:center;
+	padding-top: 33px;	
 }
+
+/*------- HEADER -------*/
 
 .header-wrapper {
-	background: gray;
-	border-bottom: 1px solid #999999;
-	min-height: 20px;
+	background: #cccccc;
+	border-bottom: 3px solid #999999;
+}
+
+#menu {
+	position: absolute;
 }
 
 .hamburger-menu {
@@ -35,29 +45,46 @@ section {
 	margin: 5px 0 5px 10px;
 }
 
-.main-menu ul li  {
-	display: inline-block;
-	background: gray;
-	padding: 5px;
-	margin: 20px 0;
-}
-
 #logo {
 	text-align: center;
 }
 
-.leaderboard-ad {
-	max-width: 100%;
-	background: #999999;
-	margin: 20px auto;
-		width: 728px;
-	height: 90px;
+#logo h1 {
+	font-size: 30px;
+	padding-top: 5px;
 }
 
-.leaderboard-ad p {
-	text-align:center;
-	padding-top: 30px;
+/*------- HERO -------*/
+
+#hero {
+	text-align: center;
+	min-height: 300px;
+	background: #f3f3f3;
+	margin-top: 10px;
+	position: relative;
 }
+
+#hero h2 {
+	font-size: 20px;
+	margin-top: 100px;
+}
+
+#hero .search-input-home input {
+	max-width: 300px;
+	display: inline;
+	padding: 10px ;
+}
+
+#hero .search-input-home p {
+	display: inline;
+	
+}
+
+#hero .search-input-home .button {
+	padding: 10px 20px;
+}
+
+/*------- CATEGORIES -------*/
 
 #categories p {
 	width: 200px;
