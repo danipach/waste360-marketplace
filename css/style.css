@@ -3,10 +3,6 @@ body {
 	background: #f3f3f3;
 }
 
-section {
-	padding-top: 200px;
-}
-
 /*------- LEADERBOARD AD -------*/
 
 .leaderboard-ad {
@@ -69,6 +65,10 @@ section {
 	margin-top: 100px;
 }
 
+#hero .search-input-home {
+
+}
+
 #hero .search-input-home input {
 	max-width: 300px;
 	display: inline;
@@ -84,13 +84,43 @@ section {
 	padding: 10px 20px;
 }
 
+/*------- FEATURED LISTINGS -------*/
+
+#featured-listings h4 {
+	margin: 20px 0 3px 10px;
+}
+
+.featured-listing {
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	background: #cccccc;
+	margin: 20px 10px;	
+}
+
+.featured-listing p {
+	padding: 55px 50px 44px;
+}
+
 /*------- CATEGORIES -------*/
 
-#categories p {
-	width: 200px;
-	height: 100px;
-	background: #cccccc;
+#categories h4 {
+	margin: 20px 0 3px 10px;
 }
+
+.category-listing {
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	background: #cccccc;
+	margin: 20px 10px;	
+}
+
+.category-listing p {
+	padding: 55px 50px 44px;
+}
+
+
 
 @media screen and (max-width: 560px) {
     #categories p {
