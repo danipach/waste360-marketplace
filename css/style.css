@@ -145,7 +145,6 @@ h6 {
 /*------- PROFILE PAGE -------*/
 .profile-wrapper {
 	width: 100%;
-
 }
 
 #profile-logo {
@@ -154,26 +153,25 @@ h6 {
 	background-color: #ccc;
 	margin-top: -25px;
 }
-.profile-contact{
-}
+
 .profile-contact p {
 	margin-top: 20px;
 }
+
 .profile-description {
 	margin-top: 20px;
 }
+
 .btn-social-media {
 	padding: 22px;
 	margin-right: 5px;
 	margin-top: -25px;
-
 }
 
 .square-ad-profile {
 	width: 300px;
 	height: 250px;
 	background-color: #000;
-
 }
 
 
