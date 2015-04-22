@@ -56,6 +56,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/companies-basic-fpo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13771,
+		"inputAbbreviatedPath": "\/images\/companies-basic-fpo.png",
+		"outputAbbreviatedPath": "\/images\/companies-basic-fpo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/companies-feat-fpo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13040,
+		"inputAbbreviatedPath": "\/images\/companies-feat-fpo.png",
+		"outputAbbreviatedPath": "\/images\/companies-feat-fpo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/logo.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
