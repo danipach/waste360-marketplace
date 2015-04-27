@@ -34,6 +34,7 @@ li {
 
 #menu {
 	position: absolute;
+	padding: 10px;
 }
 
 .hamburger-menu {
@@ -48,13 +49,26 @@ li {
 }
 
 #logo {
-	text-align: center;
+	text-align: left;
 
 }
 
 #logo h1 {
 	font-size: 20px;
 	padding-top: 5px;
+}
+
+.nav {
+	margin-right: 15px;
+}
+
+.nav-search {
+	height: 30px;	
+	width: 200px;
+}
+.nav-search-btn {
+	height: 30px;	
+	margin-bottom: 0px;
 }
 
 /*------- HERO -------*/
