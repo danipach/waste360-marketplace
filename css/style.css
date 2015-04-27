@@ -49,10 +49,11 @@ li {
 
 #logo {
 	text-align: center;
+
 }
 
 #logo h1 {
-	font-size: 30px;
+	font-size: 20px;
 	padding-top: 5px;
 }
 
@@ -132,6 +133,10 @@ li {
 	height: 2px;
 }
 
+.category-listing:hover{
+	background: #777;
+}
+
 
 /*------- SQUARE AD 300x250 -------*/
 
@@ -154,6 +159,7 @@ li {
 	width: 180px;
 	background-color: #ccc;
 	margin-top: -25px;
+	text-align: center;
 }
 
 .profile-contact p {
@@ -182,10 +188,18 @@ footer {
 	background-color: #ccc;
 	padding-top: 30px;
 }
+#newsletter-input {
+	height: 70px;
+}
+
+.powered-penton {
+	width: 50%;
+}
+
 @media screen and (max-width: 560px) {
     #categories p {
     	width: 100%;
-    	}
+    }
 
 	.leaderboard-ad {
 		width: 320px;
