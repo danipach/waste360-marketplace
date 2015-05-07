@@ -6,6 +6,12 @@ h6 {
 	font-weight: bolder;
 	font-size: 20px;
 }
+h4 {
+	text-transform: uppercase;
+	color: #174279;
+	font-size: .75em;
+	letter-spacing: 1px;
+}
 li {
 	list-style: none;
 }
@@ -139,9 +145,6 @@ h1 a:hover {
 
 /*------- FEATURED LISTINGS -------*/
 
-#featured-listings h4 {
-	margin: 20px 0 3px 10px;
-}
 
 .featured-listing {
 	text-align: center;
@@ -155,11 +158,23 @@ h1 a:hover {
 .featured-listing p {
 	padding: 55px 50px 44px;
 }
+#featured-companies-list {
+	background-color: #e5ecf5;
+}
+
+#featured-companies-list li {
+	border-bottom: 1px solid #467ec6;
+	line-height: 33px;
+}
+
 
 /*------- CATEGORIES -------*/
 
-#categories h4 {
-	margin: 20px 0 3px 10px;
+ #featured-listings #categories h4 {
+	text-transform: uppercase;
+	color: #174279;
+	font-size: 1em;
+	letter-spacing: 1px;
 }
 
 
@@ -250,12 +265,27 @@ h1 a:hover {
 
 /*------- FOOTER -------*/
 footer {
-	background-color: #ccc;
+	background-color: #174279;
 	padding-top: 30px;
 }
-#newsletter-input {
-	height: 50px;
+footer li {
+	border-bottom: 1px solid #467ec6;
+	line-height: 33px;
 }
+
+footer a {
+	color: #fff;
+}
+
+footer p {
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.newsletter-input {
+	width: 100px;
+}
+
 
 .powered-penton {
 	width: 50%;
