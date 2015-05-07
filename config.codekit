@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "18917",
+"creatorBuild": "18966",
 "files": {
 	"\/300x250ad.html": {
 		"fileType": 8192,
@@ -257,6 +257,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/product.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/product.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/profile-premium.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -268,7 +277,7 @@
 		},
 	"\/template\/300x250ad.kit": {
 		"fileType": 2048,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/300x250ad.kit",
 		"outputAbbreviatedPath": "\/300x250ad.html",
@@ -286,7 +295,7 @@
 		},
 	"\/template\/css.kit": {
 		"fileType": 2048,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/css.kit",
 		"outputAbbreviatedPath": "\/css.html",
@@ -295,7 +304,7 @@
 		},
 	"\/template\/footer.kit": {
 		"fileType": 2048,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/footer.kit",
 		"outputAbbreviatedPath": "\/footer.html",
@@ -313,7 +322,7 @@
 		},
 	"\/template\/header.kit": {
 		"fileType": 2048,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/header.kit",
 		"outputAbbreviatedPath": "\/header.html",
@@ -331,19 +340,19 @@
 		},
 	"\/template\/leaderboard.kit": {
 		"fileType": 2048,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/leaderboard.kit",
 		"outputAbbreviatedPath": "\/leaderboard.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/template\/profile-premium.html": {
-		"fileType": 8192,
-		"ignore": 1,
+	"\/template\/product.kit": {
+		"fileType": 2048,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/template\/profile-premium.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/template\/product.kit",
+		"outputAbbreviatedPath": "\/product.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -359,7 +368,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Castro, Beatriz",
+"lastSavedByUser": "Pacheco, Danielle",
 "manualImportLinks": {
 	},
 "projectAttributes": {
