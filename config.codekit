@@ -257,15 +257,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/product.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/product.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/profile-premium.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -344,15 +335,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/leaderboard.kit",
 		"outputAbbreviatedPath": "\/leaderboard.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/template\/product.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/template\/product.kit",
-		"outputAbbreviatedPath": "\/product.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
