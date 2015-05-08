@@ -288,10 +288,10 @@
 		},
 	"\/template\/300x250ad.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/300x250ad.kit",
-		"outputAbbreviatedPath": "\/template\/300x250ad.html",
+		"outputAbbreviatedPath": "\/300x250ad.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -300,25 +300,25 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/about.kit",
-		"outputAbbreviatedPath": "\/template\/about.html",
+		"outputAbbreviatedPath": "\/about.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/template\/css.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/css.kit",
-		"outputAbbreviatedPath": "\/template\/css.html",
+		"outputAbbreviatedPath": "\/css.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/template\/footer.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/footer.kit",
-		"outputAbbreviatedPath": "\/template\/footer.html",
+		"outputAbbreviatedPath": "\/footer.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -327,16 +327,16 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/header-home.kit",
-		"outputAbbreviatedPath": "\/template\/header-home.html",
+		"outputAbbreviatedPath": "\/header-home.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/template\/header.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/header.kit",
-		"outputAbbreviatedPath": "\/template\/header.html",
+		"outputAbbreviatedPath": "\/header.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -345,25 +345,16 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/index.kit",
-		"outputAbbreviatedPath": "\/template\/index.html",
+		"outputAbbreviatedPath": "\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/template\/leaderboard.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/leaderboard.kit",
-		"outputAbbreviatedPath": "\/template\/leaderboard.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/template\/product.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/template\/product.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"outputAbbreviatedPath": "\/leaderboard.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -372,7 +363,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/product.kit",
-		"outputAbbreviatedPath": "\/template\/product.html",
+		"outputAbbreviatedPath": "\/product.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -381,7 +372,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/template\/profile-premium.kit",
-		"outputAbbreviatedPath": "\/template\/profile-premium.html",
+		"outputAbbreviatedPath": "\/profile-premium.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		}
@@ -995,7 +986,7 @@
 	"kitAutoOutputPathRelativePath": "",
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
-	"kitAutoOutputPathStyle": 0,
+	"kitAutoOutputPathStyle": 1,
 	"lessAllowInsecureImports": 0,
 	"lessAutoOutputPathEnabled": 1,
 	"lessAutoOutputPathFilenamePattern": "*.css",
