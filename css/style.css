@@ -251,8 +251,9 @@ h1 a:hover {
 
 }
 
-.profile-description {
-	margin-top: 20px;
+#profile-description {
+	display: inline-block;
+	padding-left: 5%;
 }
 
 .btn-social-media {
