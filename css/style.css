@@ -1,16 +1,21 @@
 body {
 	background: #f3f3f3;
+	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 400; font-style: normal;
 }
 
 h6 {
 	font-weight: bolder;
 	font-size: 20px;
+	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 400; font-style: normal;
+
 }
 h4 {
 	text-transform: uppercase;
 	color: #174279;
 	font-size: 1em;
 	letter-spacing: 1px;
+	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 400; font-style: normal;
+
 }
 li {
 	list-style: none;
@@ -45,6 +50,7 @@ li {
 	text-transform: uppercase;
 	letter-spacing: .5px;
 	font-size: 14px;
+	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 400; font-style: normal;
 }
 
 .hamburger-menu {
