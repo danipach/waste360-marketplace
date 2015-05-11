@@ -9,7 +9,7 @@ h6 {
 h4 {
 	text-transform: uppercase;
 	color: #174279;
-	font-size: .75em;
+	font-size: 1em;
 	letter-spacing: 1px;
 }
 li {
@@ -152,7 +152,9 @@ h1 a:hover {
 
 /*------- FEATURED LISTINGS -------*/
 
-
+#featured-listings {
+	margin-top: 2%;
+}
 .featured-listing {
 	text-align: center;
 	width: 100%;
@@ -167,6 +169,8 @@ h1 a:hover {
 }
 #featured-companies-list {
 	background-color: #e5ecf5;
+	margin-top: 3%;
+	padding: 2%;
 }
 
 #featured-companies-list li {
@@ -182,6 +186,9 @@ h1 a:hover {
 	color: #174279;
 	font-size: 1em;
 	letter-spacing: 1px;
+}
+#categories {
+	margin-top: 2%;
 }
 
 
@@ -216,11 +223,20 @@ h1 a:hover {
 
 .vertical-ruler {
 	border-left:1px solid #3078d5;
-	height: 500px;
+	height: 550px;
 	position: absolute;
+	left: 37%;
+
 }
-.horizontal-ruler hr {
-	background-color: #3078d5;
+.vertical-ruler-2 {
+	border-left:1px solid #3078d5;
+	height: 550px;
+	position: absolute;
+	left: 65%;
+}	
+.horizontal-ruler {
+	border-top:1px solid #3078d5;
+
 
 }
 
