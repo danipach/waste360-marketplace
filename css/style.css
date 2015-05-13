@@ -1,6 +1,10 @@
 body {
-	background: #f3f3f3;
 	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 400; font-style: normal;
+}
+
+h2 {
+	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 700; font-style: normal;
+	color: #174279;
 }
 
 h6 {
@@ -14,7 +18,7 @@ h4 {
 	color: #174279;
 	font-size: 1em;
 	letter-spacing: 1px;
-	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 400; font-style: normal;
+	font-family: 'Gotham SSm A', 'Gotham SSm B'; font-weight: 700; font-style: normal;
 
 }
 li {
